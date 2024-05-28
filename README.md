@@ -1,4 +1,8 @@
-## Hi there 👋
+## Meu nome é Bianca
+
+- Estou estudando na Alura na disciplina de Tecnologia e Robótica da Escola Estadual de SP
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos👋
 
 <!--
 **bibi0303/bibi0303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
